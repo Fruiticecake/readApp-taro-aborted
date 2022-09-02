@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "readApp",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
